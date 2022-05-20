@@ -1,7 +1,5 @@
-motor driver	https://robu.in/product/l298-based-motor-driver-module-2a/
-battery         https://robu.in/product/orange-11-1v-1800mah-3s-30c-lipo-battery-pack-xt60-connector/
-motor	        https://robu.in/product/dc-geared-motor-with-encoder-75-rpm-26n-cm-12v-spg30e-60k/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV3SJJH3NMD4sGHubt3r-f3NX8FrtsHmiyq9-RRQ5GE0--oJA5n-qQIaAoQAEALw_wcB
-gps	        https://robu.in/product/ublox-neo-m8n-gps-for-apm-and-pixhawk-flight-controller/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV3853GaZfH9gVBIhiOEWD2aOIWUvG6poagJPk8H2l-ZrRm4NkGTUY4aAmgQEALw_wcB
-pdb	        https://robu.in/product/multirotor-esc-power-distribution-battery-board-quadcopter/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV14R7coMYXH8gwZ7VnaVvGzZxaGJFVpMf9mEImd2VyhMIeS9cck__8aAiZGEALw_wcB
-buck conv.	https://robu.in/product/xl4015-5a-dc-dc-step-adjustable-power-supply-buck-module-led-w-heatsink/
-SIK radio	    https://robokits.co.in/multirotor-spare-parts/fpv-video-telemetry-camera/433mhz-telemetry-module-pair-for-pixhawk-and-apm-100mw-2km-range
+Motor Driver	  https://robokits.co.in/motor-drives-drivers/stepper-motor-driver/vnh3sp30-based-15a-peak-30a-16v-dc-motor-driver-monster-moto-shield?cPath=73_110&
+Battery	  https://robu.in/product/orange-11-1v-1800mah-3s-30c-lipo-battery-pack-xt60-connector/
+Motor	  https://robokits.co.in/motors/dc-motor/12v-johnson-motors/johnson-geared-dc-motors/johnson-motor-high-torque-dc-geared-12v-300rpm-grade-a
+GPS	  https://rcmumbai.com/catalog/product/view/id/3103/s/matek-systems-m8q-5883-gps-module-w-compass/
+Telemetry	  https://robokits.co.in/multirotor-spare-parts/fpv-video-telemetry-camera/433mhz-telemetry-module-pair-for-pixhawk-and-apm-100mw-2km-range
