@@ -4,4 +4,4 @@ motor	        https://robu.in/product/dc-geared-motor-with-encoder-75-rpm-26n-cm
 gps	        https://robu.in/product/ublox-neo-m8n-gps-for-apm-and-pixhawk-flight-controller/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV3853GaZfH9gVBIhiOEWD2aOIWUvG6poagJPk8H2l-ZrRm4NkGTUY4aAmgQEALw_wcB
 pdb	        https://robu.in/product/multirotor-esc-power-distribution-battery-board-quadcopter/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV14R7coMYXH8gwZ7VnaVvGzZxaGJFVpMf9mEImd2VyhMIeS9cck__8aAiZGEALw_wcB
 buck conv.	https://robu.in/product/xl4015-5a-dc-dc-step-adjustable-power-supply-buck-module-led-w-heatsink/
-LORA	    https://robokits.co.in/multirotor-spare-parts/fpv-video-telemetry-camera/433mhz-telemetry-module-pair-for-pixhawk-and-apm-100mw-2km-range
+SIK radio	    https://robokits.co.in/multirotor-spare-parts/fpv-video-telemetry-camera/433mhz-telemetry-module-pair-for-pixhawk-and-apm-100mw-2km-range
