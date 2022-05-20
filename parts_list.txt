@@ -1,5 +1,5 @@
 Motor Driver	  https://robokits.co.in/motor-drives-drivers/stepper-motor-driver/vnh3sp30-based-15a-peak-30a-16v-dc-motor-driver-monster-moto-shield?cPath=73_110&
-Battery	  https://robu.in/product/orange-11-1v-1800mah-3s-30c-lipo-battery-pack-xt60-connector/
-Motor	  https://robokits.co.in/motors/dc-motor/12v-johnson-motors/johnson-geared-dc-motors/johnson-motor-high-torque-dc-geared-12v-300rpm-grade-a
-GPS	  https://rcmumbai.com/catalog/product/view/id/3103/s/matek-systems-m8q-5883-gps-module-w-compass/
+Battery	    https://robu.in/product/orange-11-1v-1800mah-3s-30c-lipo-battery-pack-xt60-connector/
+Motor	    https://robokits.co.in/motors/dc-motor/12v-johnson-motors/johnson-geared-dc-motors/johnson-motor-high-torque-dc-geared-12v-300rpm-grade-a
+GPS	    https://rcmumbai.com/catalog/product/view/id/3103/s/matek-systems-m8q-5883-gps-module-w-compass/
 Telemetry	  https://robokits.co.in/multirotor-spare-parts/fpv-video-telemetry-camera/433mhz-telemetry-module-pair-for-pixhawk-and-apm-100mw-2km-range
